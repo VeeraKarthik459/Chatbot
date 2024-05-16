@@ -1,0 +1,7 @@
+langchain
+sentence-transformers
+google-generativeai
+fastapi
+uvicorn
+pydantic
+
