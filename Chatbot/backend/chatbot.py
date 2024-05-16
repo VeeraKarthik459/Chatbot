@@ -6,8 +6,7 @@ import google.generativeai as genai
 
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 FAISS_INDEX = "XYZ"
-GEMINI_KEY = "AIzaSyBB-KIp-IaUPAOCJM0T_KFOBtNNXuAzJ8s"
-
+GEMINI_KEY = "your_gemini_key_here"
 class UploadFiles:
     def __init__(self):
         self.docs = []
